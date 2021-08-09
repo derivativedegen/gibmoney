@@ -1,3 +1,2 @@
-This projected is a donation site for a a now-defunct cryptocurrency startup.
-
-The fully-functioning site can be found at: https://gibmoney-nm.netlify.app
+Pls... Gib Money.
+0x6864187f797EE0993F3e21837A3DDc9d57a52d65
